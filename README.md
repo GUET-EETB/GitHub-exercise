@@ -6,7 +6,8 @@
 
 本篇教程会分为三个部分进行讲解，[Markdown篇](#1)、[Git篇](#2)、GitHub篇，到最后会有一个属于自己的小任务，如制作完毕可以将自己的仓库地址留存到本仓库中的[`honour.md`](https://github.com/GUET-EETB/GitHub-exercise/blob/main/honour.md)中(提交个人完成情况时可以顺便修改此文件信息)
 
-本篇教程仅自己的一些见解，如有问题，请提出issue或使用PR进行修正
+本篇教程仅自己的一些见解，如有问题，请提出issue或使用PR进行修正  
+如果学习完成，可以[点击此处](https://github.com/GUET-EETB/GitHub-exercise/blob/main/YourAssessment.md)来跳转到实践部分  
 
 ## 我需要做什么
 
